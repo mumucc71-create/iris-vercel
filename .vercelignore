@@ -1,0 +1,9 @@
+android/
+www/
+samples/
+backups/
+node_modules/
+*.bak
+*.bak-*
+*.backup
+*.backup-*
